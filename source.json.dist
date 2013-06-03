@@ -1,0 +1,7 @@
+[
+    "/etc/sysconfig/iptables",
+    "/etc/hosts",
+    "/usr/local/lib/php.ini",
+    "/usr/local/mysql/etc/my.cnf",
+    {"/usr/local/apache2/conf": "apache2"}
+]
